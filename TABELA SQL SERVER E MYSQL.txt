@@ -39,7 +39,7 @@ TABELA: usuarios (id_usuarios int(11) NOT NULL AUTO_INCREMENT PRIMARY KEY,
 
 
 
-USE des_estagio;
+USE ?????/;
 GO
 create table curso_estoque (categoria);
 CREATE TABLE categoria(
